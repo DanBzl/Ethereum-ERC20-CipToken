@@ -1,4 +1,4 @@
-# CipToken
+# CipToken (CT)
  ERC20-Token created with the Smart-Contract-language solidity.
  <br />
  <br />
