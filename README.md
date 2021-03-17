@@ -3,7 +3,7 @@
 
 
 ![Balance](https://github.com/DanBzl/CipToken/blob/main/metamask.jpg "Balance")
-![Transactions](https://github.com/DanBzl/CipToken/blob/main/tx.jpg "Transactions")
+![Transactions](https://github.com/DanBzl/CipToken/blob/main/tx.png "Transactions")
 ![Smart Contract](https://github.com/DanBzl/CipToken/blob/main/ganache.jpg "Smart Contract")
 
 
